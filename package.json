@@ -1,0 +1,17 @@
+{
+  "name": "gatsby-plugin-content-search",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "dependencies": {
+    "fuzzysort": "^1.1.4",
+    "lodash": "^4.17.15"
+  },
+  "license": "MIT"
+}
