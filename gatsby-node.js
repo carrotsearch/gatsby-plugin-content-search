@@ -1,3 +1,5 @@
+// Inspired by gatsby-plugin-local-search. Slimmed-down for use with the
+// @carrotsearch/gatsby-plugin-apidocs and @carrotsearch/gatsby-transformer-html.
 const _ = require("lodash");
 const fuzzysort = require("fuzzysort");
 
